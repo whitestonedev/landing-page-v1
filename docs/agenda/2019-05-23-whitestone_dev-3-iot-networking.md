@@ -3,7 +3,9 @@ title: 23/05/2019 - 3ª Edição | IoT + Networking
 tags: [Meetup, IoT, Recuperação]
 ---
 
-**📅 Publicado:** 23 de maio de 2019
+**📅 Publicado:** 23 de Maio de 2019
+
+---
 
 ## 💪 whiteStone_dev - 3ª Edição
 

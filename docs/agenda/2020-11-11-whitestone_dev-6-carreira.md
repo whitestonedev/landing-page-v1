@@ -3,7 +3,9 @@ title: 01/11/2020 - 6ª Edição | Carreira Dev
 tags: [Meetup, Carreira]
 ---
 
-**📅 Publicado:** 01 de novembro de 2020
+**📅 Publicado:** 01 de Novembro de 2020
+
+---
 
 ## 💪 whiteStone_dev - 6ª Edição
 

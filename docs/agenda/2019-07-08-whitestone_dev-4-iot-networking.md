@@ -3,7 +3,9 @@ title: 08/07/2019 - 4ª Edição | IoT + Networking
 tags: [Meetup, IoT, Recuperação]
 ---
 
-**📅 Publicado:** 08 de julho de 2019
+**📅 Publicado:** 08 de Julho de 2019
+
+---
 
 ## 💪 whiteStone_dev - 4ª Edição
 

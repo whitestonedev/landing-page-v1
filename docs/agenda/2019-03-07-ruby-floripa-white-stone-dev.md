@@ -3,7 +3,9 @@ title: 07/03/2019 - RubyFloripa e White Stone Dev
 tags: [RubyFloripa, Meetup]
 ---
 
-**📅 Publicado:** 7 de março de 2019
+**📅 Publicado:** 07 de Março de 2019
+
+---
 
 ## 🤝 Parceria White Stone Developers & RubyFloripa
 

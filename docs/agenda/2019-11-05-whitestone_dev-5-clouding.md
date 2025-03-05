@@ -3,7 +3,9 @@ title: 01/11/2019 - 5ª Edição | Clouding
 tags: [Meetup, Clouding]
 ---
 
-**📅 Publicado:** 01 de novembro de 2019
+**📅 Publicado:** 01 de Novembro de 2019
+
+---
 
 ## 💪 whiteStone_dev - 5ª Edição
 
