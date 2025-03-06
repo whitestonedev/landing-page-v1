@@ -124,6 +124,14 @@ const config = {
                 label: 'LinkedIn',
                 href: 'https://www.linkedin.com/company/whitestone-dev/',
               },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@whiteStone_dev',
+              },
+              {
+                label: 'WhatsApp',
+                href: 'https://chat.whatsapp.com/LiB7z1n1Ahe3Ts0YD5uPoe',
+              },
             ],
           },
           {
