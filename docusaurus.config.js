@@ -120,6 +120,10 @@ const config = {
                 label: 'Instagram',
                 href: 'https://instagram.com/whitestonedev',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/whitestone-dev/',
+              },
             ],
           },
           {
