@@ -30,7 +30,7 @@ Nossos eventos são pensados para você, desenvolvedor(a) que está sempre em bu
 
 Este espaço é o seu guia para não perder nenhum evento **whiteStone_dev**. Aqui você encontrará a agenda completa, com datas, horários, locais e temas dos próximos encontros. Mantenha-se atualizado e prepare-se para participar!
 
-**Explore a agenda completa [aqui](/eventos/category/agenda)** (link para a página da agenda, quando criada).
+**Explore a agenda completa [aqui](/eventos/category/agenda)**.
 
 ## Quer Ajudar a whiteStone_dev a Crescer?
 
@@ -38,6 +38,6 @@ A **whiteStone_dev** é uma iniciativa sem fins lucrativos, movida pela paixão 
 
 Descubra como você ou sua empresa podem **patrocinar e colaborar** com a **whiteStone_dev** e fazer parte dessa jornada de crescimento e aprendizado!
 
-**Saiba mais sobre como apoiar o projeto [aqui](/eventos/sobre/patrocinio)** (link para a página de patrocínio, veja o MD abaixo).
+**Saiba mais sobre como apoiar o projeto [aqui](/eventos/sobre/patrocinio)**.
 
 Junte-se à **whiteStone_dev** e vamos construir juntos o futuro da tecnologia! 🚀
