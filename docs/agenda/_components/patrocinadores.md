@@ -52,6 +52,17 @@
       >
         Eurotec
       </th>
+      <th
+        style={{
+          border: "none",
+          padding: "10px",
+          textAlign: "center",
+          verticalAlign: "middle",
+          backgroundColor: "transparent"
+        }}
+      >
+        CheesecakeLabs
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -103,6 +114,19 @@
         >
           <img
             src="/img/EUROTEC.png"
+            alt="Eurotec"
+            style={{ width: "100%" }}
+          />
+        </a>
+      </td>
+      <td style={{ border: "none", padding: "10px" }}>
+        <a
+          href="https://cheesecakelabs.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/img/cheesecakelabs.png"
             alt="Eurotec"
             style={{ width: "100%" }}
           />
