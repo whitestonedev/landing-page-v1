@@ -63,6 +63,17 @@
       >
         CheesecakeLabs
       </th>
+      <th
+        style={{
+          border: "none",
+          padding: "10px",
+          textAlign: "center",
+          verticalAlign: "middle",
+          backgroundColor: "transparent"
+        }}
+      >
+        NearX
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -129,6 +140,19 @@
             src="/img/cheesecakelabs.png"
             alt="Eurotec"
             style={{ width: "100%" }}
+          />
+        </a>
+      </td>
+      <td style={{ border: "none", padding: "10px" }}>
+        <a
+          href="https://nearx.com.br/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="/img/nearx.png"
+            alt="Eurotec"
+            style={{ maxWidth: "200px" }}
           />
         </a>
       </td>
