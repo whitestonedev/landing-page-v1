@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   organizationName: 'whitestonedev',
-  projectName: 'landing-page',
+  projectName: 'landing-page-v1',
 
   i18n: {
     defaultLocale: 'pt-Br',
@@ -31,7 +31,8 @@ const config = {
         docs: {
           routeBasePath: '/eventos',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/whitestonedev/landing-page/edit/main/',
+          editUrl:
+            'https://github.com/whitestonedev/landing-page-v1/edit/main/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           sidebarItemsGenerator: async function ({
@@ -58,7 +59,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/whitestonedev/landing-page/edit/main/',
+          editUrl:
+            'https://github.com/whitestonedev/landing-page-v1/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/index.css'),
@@ -94,7 +96,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://github.com/whitestonedev/landing-page',
+            to: 'https://github.com/whitestonedev/landing-page-v1',
             label: 'GitHub',
             position: 'right',
           },
@@ -143,7 +145,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                to: 'https://github.com/whitestonedev/landing-page',
+                to: 'https://github.com/whitestonedev/landing-page-v1',
               },
             ],
           },
